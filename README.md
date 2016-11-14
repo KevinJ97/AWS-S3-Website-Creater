@@ -17,7 +17,10 @@ AWS S3 Website Creater is a Python script using Boto3 to host a static website u
 To get started following the instructions:
 - Install boto 3 - pip install boto3
 - Configure AWS run aws configure
-- Run the script aws_s3.py
+- Program accepts two parameters: website name and region
+- Example: python aws_s3.py applesarereallycool us-west-2
+- If successful, the return will be: "Website is live at: http://applesarereallycool.s3-website-us-west-2.amazonaws.com"
+- Visiting the URL will display this: "Awesome Web Services! It worked if you're seeing this!"
 
 ## Libraries Used
 
