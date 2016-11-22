@@ -1,4 +1,4 @@
-# AWS S3 Website Creater
+# AWS S3 Website Creator
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)][mitLink]
 
